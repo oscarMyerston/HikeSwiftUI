@@ -38,7 +38,7 @@ struct CustomButtonView: View {
                 )
         } //: ZSTACK
         .frame(width: 58, height: 58)
-    }
+    } 
 }
 
 struct CustomButtonView_Previews: PreviewProvider {
