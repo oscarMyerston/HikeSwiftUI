@@ -15,6 +15,7 @@
 		488674262C09277600A31AA6 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488674252C09277600A31AA6 /* ColorExtension.swift */; };
 		48B777A02C1755E700627AF1 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B7779F2C1755E600627AF1 /* MotionAnimationView.swift */; };
 		48B777A32C17621200627AF1 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B777A22C17621100627AF1 /* SettingsView.swift */; };
+		48B777A52C17A45800627AF1 /* CustomListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B777A42C17A45800627AF1 /* CustomListRowView.swift */; };
 		48D18A162C082221006EFCAB /* HikeSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48D18A152C082221006EFCAB /* HikeSwiftUIApp.swift */; };
 		48D18A182C082221006EFCAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48D18A172C082221006EFCAB /* ContentView.swift */; };
 		48D18A1A2C082225006EFCAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48D18A192C082225006EFCAB /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		488674252C09277600A31AA6 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		48B7779F2C1755E600627AF1 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		48B777A22C17621100627AF1 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		48B777A42C17A45800627AF1 /* CustomListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRowView.swift; sourceTree = "<group>"; };
 		48D18A122C082221006EFCAB /* HikeSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HikeSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48D18A152C082221006EFCAB /* HikeSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeSwiftUIApp.swift; sourceTree = "<group>"; };
 		48D18A172C082221006EFCAB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				4854CA5C2C1156920045D3A2 /* CustomButtonView.swift */,
 				480907682C1751CA00A9D625 /* CustomCircleView.swift */,
 				48B7779F2C1755E600627AF1 /* MotionAnimationView.swift */,
+				48B777A42C17A45800627AF1 /* CustomListRowView.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				48D18A182C082221006EFCAB /* ContentView.swift in Sources */,
 				480907692C1751CA00A9D625 /* CustomCircleView.swift in Sources */,
+				48B777A52C17A45800627AF1 /* CustomListRowView.swift in Sources */,
 				488674202C09222000A31AA6 /* CardView.swift in Sources */,
 				48D18A162C082221006EFCAB /* HikeSwiftUIApp.swift in Sources */,
 				4854CA5D2C1156920045D3A2 /* CustomButtonView.swift in Sources */,
